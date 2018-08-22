@@ -1,4 +1,3 @@
-
 # Vortigo - Teste prático - Analista desenvolvedor PHP PLENO
 
 ### Requisitos:
@@ -75,8 +74,6 @@ Todos os retornos devem ser em formato json
 - Comissão
 - Data da venda
 
-
-Ao final de cada dia deve ser enviado um email com um relatório com a soma de todas as vendas efetuadas no dia.
 
 ---
 
