@@ -82,7 +82,7 @@ Todos os retornos devem ser em formato json
 
 ### Forma de entrega:
 
-Crie um fork deste repositório e após finalizado nos envie por email para douglas.amengual@vortigo.com.br
+Crie um fork deste repositório e após finalizado nos envie por email para luiz.ferreira@vortigo.com.br
 
 
 
