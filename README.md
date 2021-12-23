@@ -3,13 +3,13 @@
 ### Requisitos:
 - PHP
 - Banco de dados
-- Laravel <3
-
+- Laravel 7/8
+- Utilizar Migrations
+- Utilizar Cache
+- Utilizar Login/Autenticação
 
 ### Plus++
-- Utilizar migrations
 - Testes unitários e/ou de integração
-- Utilizar Cache
 
 ---
 
@@ -74,16 +74,8 @@ Todos os retornos devem ser em formato json
 - Comissão
 - Data da venda
 
-
 ---
-
-> Não é necessário nenhuma forma de login/autenticação
-
 
 ### Forma de entrega:
 
 Crie um fork deste repositório e após finalizado nos envie por email para luiz.ferreira@vortigo.com.br
-
-
-
-
